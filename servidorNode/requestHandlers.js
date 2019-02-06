@@ -3,7 +3,7 @@ function iniciar() {
   }
   
   function subir() {
-    console.log("Manipulador de petición 'subir' ha sido llamado.");
+    console.log("ManipuladOr de petición 'subir' ha sido llamado.");
   }
   
   exports.iniciar = iniciar;
